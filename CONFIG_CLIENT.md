@@ -24,7 +24,7 @@ sudo dnf install NetworkManager-l2tp-gnome
 3) Configurar la conexión.
 
 Utilice los siguientes datos de conexión.
-
+```
 Name: SWISSPHOTO
 Gateway: portal.proadmintierra.info
 Username: su_nombre_de_usuario
@@ -33,7 +33,7 @@ Group Name: default
 Pre-shared key: pregunte_a_su_admin
 Autentication methods: MSCHAPV2
 Use Point to Point encription (MPPE) Security: 128 bit
-
+```
 Algunas imágenes del proceso.
 
 ![screenshot](./images/Screenshot_from_2017-06-22_19-41-35.png)
