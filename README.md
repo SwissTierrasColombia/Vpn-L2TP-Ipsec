@@ -7,4 +7,5 @@ Servicio Vpn L2TP/Ipsec cifrada
 
  Configuración de [Servidor Vpn](configserver.md)
 
+ Configuración del [Cliente VPN](CONFIG_CLIENT.md)
 
