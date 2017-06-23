@@ -34,3 +34,10 @@ Pre-shared key: pregunte_a_su_admin
 Autentication methods: MSCHAPV2
 Use Point to Point encription (MPPE) Security: 128 bit
 
+Algunas imágenes del proceso.
+
+![screenshot](./images/Screenshot_from_2017-06-22_19-41-35.png)
+
+![screenshot](./images/Screenshot_from_2017-06-22_19-41-41.png)
+
+![screenshot](./images/Screenshot_from_2017-06-22_19-41-46.png)
