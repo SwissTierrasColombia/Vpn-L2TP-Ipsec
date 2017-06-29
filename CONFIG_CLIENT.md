@@ -41,3 +41,17 @@ Algunas imágenes del proceso.
 ![screenshot](./images/Screenshot_from_2017-06-22_19-41-41.png)
 
 ![screenshot](./images/Screenshot_from_2017-06-22_19-41-46.png)
+
+
+##Conectar a la vpn sin perder el internet local.
+
+En ambos sistemas debe estar desactivada la casilla de "Usar la puerta de enlace predeterminada en la red remota"
+
+Windows
+Abrir la consola de windows "Cmd" como administrador
+
+```route ADD 192.168.98.0 MASK 255.255.255.0 192.168.11.1```
+
+Linux
+
+```sudo route add 192.168.98.0/24 via 192.168.11.1 dev ppp0 ```
