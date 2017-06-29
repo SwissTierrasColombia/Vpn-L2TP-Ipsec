@@ -6,7 +6,18 @@ Debian:
 ```bash
 sudo apt install l2tp-ipsec-vpn-daemon
 ```
-OpenSuse:
+OpenSuse 42.2:
+
+Descargar el paquete
+
+1 Click Install
+
+http://software.opensuse.org/ymp/home:iSipi/openSUSE_Leap_42.2/NetworkManager-l2tp.ymp?base=openSUSE%3ALeap%3A42.2&query=NetworkManager-l2tp
+
+Rpm
+
+http://download.opensuse.org/repositories/home:/iSipi/openSUSE_Leap_42.2/x86_64/NetworkManager-l2tp-1.0.4-8.1.x86_64.rpm
+
 ```bash
 sudo zypper install NetworkManager-l2tp-gnome
 ```
