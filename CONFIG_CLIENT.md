@@ -66,7 +66,7 @@ route ADD 192.168.98.0 MASK 255.255.255.0 192.168.11.1
 
 Linux
 ```bash
-sudo route add 192.168.98.0/24 via 192.168.11.1 dev ppp0
+sudo ip route add 192.168.98.0/24 via 192.168.11.1 dev ppp0
 ```
 
 Si usas gnome puedes hacer:
