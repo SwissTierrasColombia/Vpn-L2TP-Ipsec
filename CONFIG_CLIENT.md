@@ -6,6 +6,11 @@ Debian:
 ```bash
 sudo apt install l2tp-ipsec-vpn-daemon
 ```
+Basadas en Ubuntu 18.04 
+```bash
+sudo apt install network-manager-l2tp
+sudo apt install network-manager-l2tp-gnome
+```
 OpenSuse 42.2:
 
 Descargar el paquete
